@@ -1,0 +1,12 @@
+Traffic Sensors / Emergency Detection
+                ↓
+      IoT Microcontroller
+        (ESP32/Arduino)
+                ↓
+      Traffic Analysis System
+                ↓
+     Smart Signal Controller
+                ↓
+      Traffic Signal System
+                ↓
+ Real-Time Monitoring Dashboard
