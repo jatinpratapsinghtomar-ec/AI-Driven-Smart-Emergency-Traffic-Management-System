@@ -1,0 +1,13 @@
+[ Traffic Density Sensors ]
+              ↓
+[ Emergency Vehicle Detection ]
+              ↓
+[ ESP32 / Arduino Controller ]
+              ↓
+[ Smart Traffic Analysis System ]
+              ↓
+[ Traffic Signal Control Unit ]
+              ↓
+[ Traffic Lights ]
+              ↓
+[ Monitoring Dashboard ]
