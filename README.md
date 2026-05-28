@@ -51,7 +51,9 @@ AI-Driven-Smart-Emergency-Traffic-Management-System
 ├── report
 └── README.md
 🧪 Simulation
+## Simulation Output
 
+![Simulation Output](simulations/simulation-output.png)
 A traffic simulation model was developed using Python and Pygame.
 
 The simulation demonstrates:
