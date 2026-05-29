@@ -1,4 +1,7 @@
 AI-Driven Smart Emergency Traffic Management System Using IoT
+## Project Demo
+
+![Smart Traffic System](images/demo.png)
 🚦 Overview
 
 This project presents an intelligent traffic management system designed to reduce traffic congestion and provide priority access to emergency vehicles such as ambulances.
